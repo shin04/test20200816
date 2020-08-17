@@ -10,6 +10,9 @@ $ docker-compose up -d --remove-orphans
 docker-compose upできたら http://localhost:3000 で起動確認できるはず
 いつものHello Railsの画面がでたらOKです
 
+終わったら
+$ docker-compose down
+すること
 ```
 
 環境
